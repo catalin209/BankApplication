@@ -1,0 +1,9 @@
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\bin\Debug\BApp.exe.config
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\bin\Debug\BApp.exe
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\bin\Debug\BApp.pdb
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\obj\Debug\BApp.csprojResolveAssemblyReference.cache
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\obj\Debug\BApp.GUI.resources
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\obj\Debug\BApp.Properties.Resources.resources
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\obj\Debug\BApp.csproj.GenerateResource.Cache
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\obj\Debug\BApp.exe
+C:\Users\catalin.zevedei\Desktop\BApp\BApp\obj\Debug\BApp.pdb
